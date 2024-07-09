@@ -3,4 +3,4 @@
 
 para ejecutar el sistema debes poner:
 ´´´npm install react´´´
--jajajajajajajaj
+para el sistema de refistro
